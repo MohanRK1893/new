@@ -15,8 +15,11 @@ public class Test {
 	private void m2() {
 			
 			System.out.println(a);
-		}
 		
+		}
+		private void m3() {
+			
+		}
 		public static void main(String[] args)
 		{
 		Test T1 =new Test();
